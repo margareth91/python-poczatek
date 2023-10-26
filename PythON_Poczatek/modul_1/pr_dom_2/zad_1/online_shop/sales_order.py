@@ -1,5 +1,6 @@
 
-from online_shop.products import products, update_product_qty
+# from online_shop.products import products, update_product_qty
+from .products import products, update_product_qty
 
 orders = [
     {
